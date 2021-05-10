@@ -1,3 +1,3 @@
 # PartDet Folder Files for 2016
 * Notes
-  * These are the config files Andr√s requested.
+  * These are the config files AF requested.
