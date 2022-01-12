@@ -1,0 +1,450 @@
+[nschonbe@lxplus763 AN-20-134]$ eval `utils/tdr runtime -sh`
+Prepending PATH with: /afs/cern.ch/user/n/nschonbe/Documents/DY_Zprime_AN/AN-20-134/utils
+[nschonbe@lxplus763 AN-20-134]$ tdr b
+Created /tmp/nschonbe/tdr_bld_LvlRrw as a temporary output directory
+
+Removing all contents of temporary directory: /tmp/nschonbe/tdr_bld_LvlRrw
+
+Building: /afs/cern.ch/user/n/nschonbe/Documents/DY_Zprime_AN/AN-20-134/AN-20-134.tex
+
+
+===============================================================
+First pass TeXing file: "/tmp/nschonbe/tdr_bld_LvlRrw/AN-20-134_temp.tex"
+
+===============================================================
+BibTeXing file: "/tmp/nschonbe/tdr_bld_LvlRrw/AN-20-134_temp.tex"
+
+This is BibTeX, Version 0.99d (TeX Live 2017)
+The top-level auxiliary file: AN-20-134_temp.aux
+The style file: auto_generated.bst
+Database file #1: auto_generated.bib
+You're missing a field name---line 357 of file auto_generated.bib
+ :
+ : %       title         = "{AN-16-368}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 361 of file auto_generated.bib
+ :
+ : %       title         = "{AN-17-142}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 365 of file auto_generated.bib
+ :
+ : %       title         = "{Tau POG Page}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 369 of file auto_generated.bib
+ :
+ : %       title         = "{CERN nanoAOD Documentation}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+(There were 4 error messages)
+
+===============================================================
+Second pass TeXing file: "/tmp/nschonbe/tdr_bld_LvlRrw/AN-20-134_temp.tex"
+
+===============================================================
+Final (third) pass TeXing file: "/tmp/nschonbe/tdr_bld_LvlRrw/AN-20-134_temp.tex"
+
+-------------------------------------------------------------------
+
+PdfLaTeX errors (filtered):
+
+--- from logfile ---
+! Missing $ inserted.
+<inserted text>
+                $
+l.581 \ell
+           & $N(\mu/e)$                         & $= 1$  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+--- from logfile ---
+! Missing $ inserted.
+<inserted text>
+                $
+l.581 \ell &
+             $N(\mu/e)$                         & $= 1$  \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+--- from logfile ---
+! Missing } inserted.
+<inserted text>
+                }
+l.608 \end{table}
+--- from logfile ---
+! Undefined control sequence.
+l.61 ...ating against electrons, the $\tau_{h}\tah
+                                                  _{h}$ channel uses the loo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+--- from logfile ---
+! Double subscript.
+l.61 ...ting against electrons, the $\tau_{h}\tah_
+                                                  {h}$ channel uses the loos...
+I treat `x_1_2' essentially like `x_1{}_2'.
+--- from logfile ---
+! Undefined control sequence.
+l.67 $t\bat
+           {t}$ control region as compared to data (scale factor closer to u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\ell' on input line 1.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 1.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mu' on input line 2.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 2.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 2.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 4.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 4.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 3.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 3.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 6.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 6.
+--- from logfile ---
+pdfTeX warning: pdflatex (file /afs/cern.ch/user/n/nschonbe/Documents/DY_Zprime
+_AN/AN-20-134/plots_eTau/2017/PlotsN/ttbar2017-ETau-ElectronPt.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<plots_eTau/2017/PlotsN/ttbar2017-ETau-ElectronPt.pdf, id=3182, pagebox=cropbox
+, 569.12625pt x 569.12625pt>
+File: plots_eTau/2017/PlotsN/ttbar2017-ETau-ElectronPt.pdf Graphic file (type p
+df)
+<use plots_eTau/2017/PlotsN/ttbar2017-ETau-ElectronPt.pdf>
+Package pdftex.def Info: plots_eTau/2017/PlotsN/ttbar2017-ETau-ElectronPt.pdf
+used on input line 25. on input line 25.
+Package pdftex.def Info: Requested size: 136.5746pt x 136.57571pt on input line
+--- from logfile ---
+pdfTeX warning: pdflatex (file /afs/cern.ch/user/n/nschonbe/Documents/DY_Zprime
+_AN/AN-20-134/plots_eTau/2017/PlotsN/ttbar2017-ETau-TauPt.pdf): PDF inclusion:
+found PDF version <1.7>, but at most version <1.5> allowed
+<plots_eTau/2017/PlotsN/ttbar2017-ETau-TauPt.pdf, id=3183, pagebox=cropbox, 569
+.12625pt x 569.12625pt>
+File: plots_eTau/2017/PlotsN/ttbar2017-ETau-TauPt.pdf Graphic file (type pdf)
+<use plots_eTau/2017/PlotsN/ttbar2017-ETau-TauPt.pdf>
+Package pdftex.def Info: plots_eTau/2017/PlotsN/ttbar2017-ETau-TauPt.pdf  used
+on input line 26. on input line 26.
+Package pdftex.def Info: Requested size: 136.5746pt x 136.57571pt on input line
+ 26.
+--- from logfile ---
+pdfTeX warning: pdflatex (file /afs/cern.ch/user/n/nschonbe/Documents/DY_Zprime
+_AN/AN-20-134/plots_eTau/2017/PlotsN/ttbar2017-ETau-MET.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<plots_eTau/2017/PlotsN/ttbar2017-ETau-MET.pdf, id=3184, pagebox=cropbox, 569.1
+2625pt x 569.12625pt>
+File: plots_eTau/2017/PlotsN/ttbar2017-ETau-MET.pdf Graphic file (type pdf)
+<use plots_eTau/2017/PlotsN/ttbar2017-ETau-MET.pdf>
+Package pdftex.def Info: plots_eTau/2017/PlotsN/ttbar2017-ETau-MET.pdf  used on
+ input line 27. on input line 27.
+Package pdftex.def Info: Requested size: 136.5746pt x 136.57571pt on input line
+ 27.
+--- from logfile ---
+pdfTeX warning: pdflatex (file /afs/cern.ch/user/n/nschonbe/Documents/DY_Zprime
+_AN/AN-20-134/plots_eTau/2018/PlotN/ttbar2018-ETau-EPt.pdf): PDF inclusion: fou
+nd PDF version <1.7>, but at most version <1.5> allowed
+<plots_eTau/2018/PlotN/ttbar2018-ETau-EPt.pdf, id=3185, pagebox=cropbox, 569.12
+625pt x 569.12625pt>
+File: plots_eTau/2018/PlotN/ttbar2018-ETau-EPt.pdf Graphic file (type pdf)
+<use plots_eTau/2018/PlotN/ttbar2018-ETau-EPt.pdf>
+Package pdftex.def Info: plots_eTau/2018/PlotN/ttbar2018-ETau-EPt.pdf  used on
+input line 33. on input line 33.
+Package pdftex.def Info: Requested size: 136.5746pt x 136.57571pt on input line
+ 33.
+--- from logfile ---
+pdfTeX warning: pdflatex (file /afs/cern.ch/user/n/nschonbe/Documents/DY_Zprime
+_AN/AN-20-134/plots_eTau/2018/PlotN/ttbar2018-ETau-TauPt.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<plots_eTau/2018/PlotN/ttbar2018-ETau-TauPt.pdf, id=3186, pagebox=cropbox, 569.
+12625pt x 569.12625pt>
+File: plots_eTau/2018/PlotN/ttbar2018-ETau-TauPt.pdf Graphic file (type pdf)
+<use plots_eTau/2018/PlotN/ttbar2018-ETau-TauPt.pdf>
+Package pdftex.def Info: plots_eTau/2018/PlotN/ttbar2018-ETau-TauPt.pdf  used o
+n input line 34. on input line 34.
+Package pdftex.def Info: Requested size: 136.5746pt x 136.57571pt on input line
+ 34.
+--- from logfile ---
+pdfTeX warning: pdflatex (file /afs/cern.ch/user/n/nschonbe/Documents/DY_Zprime
+_AN/AN-20-134/plots_eTau/2018/PlotN/ttbar2018-ETau-MET.pdf): PDF inclusion: fou
+nd PDF version <1.7>, but at most version <1.5> allowed
+<plots_eTau/2018/PlotN/ttbar2018-ETau-MET.pdf, id=3187, pagebox=cropbox, 569.12
+625pt x 569.12625pt>
+File: plots_eTau/2018/PlotN/ttbar2018-ETau-MET.pdf Graphic file (type pdf)
+<use plots_eTau/2018/PlotN/ttbar2018-ETau-MET.pdf>
+Package pdftex.def Info: plots_eTau/2018/PlotN/ttbar2018-ETau-MET.pdf  used on
+input line 35. on input line 35.
+Package pdftex.def Info: Requested size: 136.5746pt x 136.57571pt on input line
+ 35.
+--- from logfile ---
+pdfTeX warning: pdflatex (file /afs/cern.ch/user/n/nschonbe/Documents/DY_Zprime
+_AN/AN-20-134/plots_eTau/2016/PlotsN/DY2017-etau-EPt.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<plots_eTau/2016/PlotsN/DY2017-etau-EPt.pdf, id=3390, pagebox=cropbox, 569.1262
+5pt x 569.12625pt>
+File: plots_eTau/2016/PlotsN/DY2017-etau-EPt.pdf Graphic file (type pdf)
+<use plots_eTau/2016/PlotsN/DY2017-etau-EPt.pdf>
+Package pdftex.def Info: plots_eTau/2016/PlotsN/DY2017-etau-EPt.pdf  used on in
+put line 139. on input line 139.
+Package pdftex.def Info: Requested size: 159.3382pt x 159.33688pt on input line
+ 139.
+--- from logfile ---
+pdfTeX warning: pdflatex (file /afs/cern.ch/user/n/nschonbe/Documents/DY_Zprime
+_AN/AN-20-134/plots_eTau/2016/PlotsN/DY2017-etau-TauPt.pdf): PDF inclusion: fou
+nd PDF version <1.7>, but at most version <1.5> allowed
+<plots_eTau/2016/PlotsN/DY2017-etau-TauPt.pdf, id=3391, pagebox=cropbox, 569.12
+625pt x 568.1225pt>
+File: plots_eTau/2016/PlotsN/DY2017-etau-TauPt.pdf Graphic file (type pdf)
+<use plots_eTau/2016/PlotsN/DY2017-etau-TauPt.pdf>
+Package pdftex.def Info: plots_eTau/2016/PlotsN/DY2017-etau-TauPt.pdf  used on
+input line 140. on input line 140.
+Package pdftex.def Info: Requested size: 159.3382pt x 159.05586pt on input line
+ 140.
+--- from logfile ---
+pdfTeX warning: pdflatex (file /afs/cern.ch/user/n/nschonbe/Documents/DY_Zprime
+_AN/AN-20-134/plots_eTau/2016/PlotsN/DY2017-etau-MET.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<plots_eTau/2016/PlotsN/DY2017-etau-MET.pdf, id=3392, pagebox=cropbox, 569.1262
+5pt x 569.12625pt>
+File: plots_eTau/2016/PlotsN/DY2017-etau-MET.pdf Graphic file (type pdf)
+<use plots_eTau/2016/PlotsN/DY2017-etau-MET.pdf>
+Package pdftex.def Info: plots_eTau/2016/PlotsN/DY2017-etau-MET.pdf  used on in
+put line 141. on input line 141.
+Package pdftex.def Info: Requested size: 159.3382pt x 159.33688pt on input line
+ 141.
+--- from logfile ---
+! Misplaced alignment tab character &.
+l.203         N_{SR}^{QCD}&
+                           =ATF\cdot(N_{C}^{\text{Data}}-N_{C}^{\text{non-QC...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+--- from logfile ---
+! LaTeX Error: There's no line here to end.
+--- from logfile ---
+! LaTeX Error: There's no line here to end.
+--- from logfile ---
+! Misplaced alignment tab character &.
+<argument> ...07 \\ \hline \hline \end {tabular} &
+                                                   \begin {tabular}{lc} \hli...
+l.419 }
+--- from logfile ---
+! Misplaced alignment tab character &.
+<argument> ...07 \\ \hline \hline \end {tabular} &
+                                                   \begin {tabular}{lc} \hli...
+l.419 }
+--- from logfile ---
+! Misplaced alignment tab character &.
+<argument> ...\% \\ \hline \hline \end {tabular} &
+                                                   \par \begin {tabular}{lcr...
+l.507 }
+        }
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+--- from logfile ---
+! Misplaced alignment tab character &.
+<argument> ...\% \\ \hline \hline \end {tabular} &
+                                                   \par \begin {tabular}{lcr...
+l.507 }
+        }
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 96.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 96.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 96.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 96.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 96.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 96.
+--- from logfile ---
+Missing character: There is no  in font pplr7t!
+Missing character: There is no  in font pplr7t!
+Missing character: There is no  in font pplr7t!
+Missing character: There is no  in font pplr7t!
+Missing character: There is no  in font pplr7t!
+Missing character: There is no  in font pplr7t!
+<789FIG plots_tautau/general/Significance_Plot_of_CosDphi_Tau1_Tau2.png 43>
+<plots_tautau/general/Significance_Plot_of_CosDphi_Tau1_Tau2.png, id=4291, 641.
+7576pt x 411.07176pt>
+File: plots_tautau/general/Significance_Plot_of_CosDphi_Tau1_Tau2.png Graphic f
+ile (type png)
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1260.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 1260.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1260.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 1260.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1260.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1260.
+--- from logfile ---
+! Package xcolor Error: Undefined color `BrickRed'.
+--- from logfile ---
+! Package xcolor Error: Undefined color `BrickRed'.
+--- from logfile ---
+! Package xcolor Error: Undefined color `BrickRed'.
+--- from logfile ---
+! Package xcolor Error: Undefined color `BrickRed'.
+--- from logfile ---
+Missing character: There is no  in font pplr7t!
+Missing character: There is no  in font pplr7t!
+Missing character: There is no  in font pplr7t!
+<789FIG BigDraft 54>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf  used on input line 1306. on input line 1
+306.
+Package pdftex.def Info: Requested size: 597.50682pt x 845.04504pt on input lin
+e 1306.
+[57]
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1321.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 1321.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1321.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 1321.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1321.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1321.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1770.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 1770.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1770.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 1770.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1770.
+--- from logfile ---
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1770.
+--- from logfile ---
+Missing character: There is no  in font pplr7t!
+Missing character: There is no  in font pplr7t!
+Missing character: There is no  in font pplr7t!
+<789FIG BigDraft 63>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf  used on input line 124. on input line 12
+4.
+Package pdftex.def Info: Requested size: 597.50682pt x 845.04504pt on input lin
+e 124.
+[70]
+--- from logfile ---
+Missing character: There is no  in font pplr7t!
+Missing character: There is no  in font pplr7t!
+Missing character: There is no  in font pplr7t!
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
+<789FIG BigDraft 63>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf  used on input line 137. on input line 13
+7.
+Package pdftex.def Info: Requested size: 597.50682pt x 845.04504pt on input lin
+--- from logfile ---
+LaTeX Warning: There were multiply-defined labels.
+-------------------------------------------------------------------
+Output directory: /tmp/nschonbe/tdr_bld_LvlRrw
+-------------------------------------------------------------------
+Output Log files:
+/tmp/nschonbe/tdr_bld_LvlRrw/AN-20-134_temp.log
+/tmp/nschonbe/tdr_bld_LvlRrw/AN-20-134_temp.pdftex_out
+/tmp/nschonbe/tdr_bld_LvlRrw/AN-20-134_temp.err
+-------------------------------------------------------------------
+ PDF Output file: /tmp/nschonbe/tdr_bld_LvlRrw/AN-20-134_temp.pdf
+-------------------------------------------------------------------
+[nschonbe@lxplus763 AN-20-134]$
